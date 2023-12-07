@@ -1,6 +1,6 @@
 tensorflow==2.13.0
 numpy==1.23.5
-opencv-python
+opencv-python==4.5.2.54
 Pillow==9.3.0
 streamlit==1.26.0
 requires.io
