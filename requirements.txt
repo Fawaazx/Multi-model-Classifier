@@ -1,8 +1,11 @@
+
 tensorflow>=2.7.0
 numpy==1.19.5
 opencv-python==4.5.3.56
 Pillow==8.2.0
 streamlit==1.15.0
 typing-extensions>=3.10.0.0
+tensorflow-model-saving
+tensorflow-datasets
 requires.io
 
