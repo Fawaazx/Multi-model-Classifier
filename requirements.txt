@@ -6,6 +6,5 @@ Pillow==8.2.0
 streamlit==1.15.0
 typing-extensions>=3.10.0.0
 tensorflow-model-saving
-tensorflow-datasets
 requires.io
 
