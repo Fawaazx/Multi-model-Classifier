@@ -4,7 +4,6 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing import sequence
 from tensorflow.keras.saving import load_model
 import numpy as np
-import cv2
 from PIL import Image
 
 
